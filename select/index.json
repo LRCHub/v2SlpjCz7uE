@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "地上の星 / 中島みゆき [公式]",
+  "base_artist": "中島みゆき",
+  "createdAt": "2026-01-11T09:15:24.354020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "Junko Ohashi",
+      "has_synced": false,
+      "path": "select/01_地上の星_Junko_Ohashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "Miyuki Nakajima",
+      "has_synced": true,
+      "path": "select/02_地上の星_Miyuki_Nakajima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/03_地上の星_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "Miyuki Nakajima - Topic",
+      "has_synced": true,
+      "path": "select/04_地上の星_Miyuki_Nakajima_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "高良みゆき",
+      "has_synced": false,
+      "path": "select/05_地上の星_高良みゆき.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "デーモン小暮",
+      "has_synced": true,
+      "path": "select/06_地上の星_デーモン小暮.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "島津亜矢",
+      "has_synced": true,
+      "path": "select/07_地上の星_島津亜矢.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "Martin, Eric",
+      "has_synced": false,
+      "path": "select/08_地上の星_Martin,_Eric.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "高良みゆき(遠藤綾)",
+      "has_synced": false,
+      "path": "select/09_地上の星_高良みゆき(遠藤綾).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "地上の星",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/10_地上の星_大橋純子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "地上の星",
+      "artist": "中島 みゆき",
+      "has_synced": false,
+      "path": "select/pl_01_地上の星_中島_みゆき.txt"
+    }
+  ]
+}
